@@ -1,0 +1,49 @@
+.headline {
+  background-image: url("C:\Users\deere\Downloads\UP2.jpg");
+  background-size: cover;
+  background-position: center;
+  
+}
+
+h1 {
+  color: Black; 
+  font-size: 5em;
+  padding-top: 45px;
+  padding-bottom: 1px;
+  width: 100%;
+  font-family: 'Creepster', cursive;
+  text-align: center;
+  margin: 3 3;
+}
+
+h2 {
+    color: Black; 
+    padding-top: 0px;
+    width: 100%;
+    font-family: 'Sansita', sans-serif;
+    text-align: center;
+    margin: 1 1;
+  }
+
+h5 {
+    color: Black; 
+    width: 100%;
+    font-family: 'Amita', cursive;;
+    text-align: center;
+    font-size: 3em;
+    margin: 10px;
+  }
+
+#main {
+    display: block;
+    margin: 0px;
+    width: 80px;
+    height: 80px;
+}
+
+body {
+    background-color: brown;
+    text-align: center;
+    margin: 0;
+    color: gray;
+}
