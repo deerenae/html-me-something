@@ -1,12 +1,12 @@
 .headline {
-  background-image: url("C:\Users\deere\Downloads\UP2.jpg");
+  background-image: url("https://the-peak.ca/wp-content/uploads/2016/10/halloween-illustration.jpg");
   background-size: cover;
   background-position: center;
   
 }
 
 h1 {
-  color: Black; 
+  color: #FFF; 
   font-size: 5em;
   padding-top: 45px;
   padding-bottom: 1px;
@@ -21,12 +21,13 @@ h2 {
     padding-top: 0px;
     width: 100%;
     font-family: 'Sansita', sans-serif;
+    font-size: 30;
     text-align: center;
     margin: 1 1;
   }
 
 h5 {
-    color: Black; 
+    color: #FFF; 
     width: 100%;
     font-family: 'Amita', cursive;;
     text-align: center;
@@ -42,8 +43,15 @@ h5 {
 }
 
 body {
-    background-color: brown;
     text-align: center;
     margin: 0;
-    color: gray;
+    color: #fff;
+    font-style: bold;
+    font-size: 20px;
+    font-family: 'Sansita', sans-serif;
+    background-image:
+    url("https://image.freepik.com/fotos-gratis/fundo-alaranjado-do-grunge-detalhado-para-o-dia-das-bruxas-com-o-cemiterio_1048-3283.jpg");
+    background-size: cover;
+    background-position: center;
 }
+    
